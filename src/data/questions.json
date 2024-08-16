@@ -1,0 +1,333 @@
+[
+    {
+      "question": "Qual é a capital da França?",
+      "answers": [
+        { "text": "Paris", "isCorrect": true },
+        { "text": "Londres", "isCorrect": false },
+        { "text": "Berlim", "isCorrect": false },
+        { "text": "Madri", "isCorrect": false },
+        { "text": "Roma", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Quem escreveu 'Dom Quixote'?",
+      "answers": [
+        { "text": "Miguel de Cervantes", "isCorrect": true },
+        { "text": "William Shakespeare", "isCorrect": false },
+        { "text": "Gabriel García Márquez", "isCorrect": false },
+        { "text": "Jorge Luis Borges", "isCorrect": false },
+        { "text": "Mario Vargas Llosa", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é o maior planeta do sistema solar?",
+      "answers": [
+        { "text": "Júpiter", "isCorrect": true },
+        { "text": "Saturno", "isCorrect": false },
+        { "text": "Terra", "isCorrect": false },
+        { "text": "Marte", "isCorrect": false },
+        { "text": "Netuno", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é o maior oceano do planeta?",
+      "answers": [
+        { "text": "Oceano Pacífico", "isCorrect": true },
+        { "text": "Oceano Índico", "isCorrect": false },
+        { "text": "Oceano Atlantico", "isCorrect": false },
+        { "text": "Oceano Ártico", "isCorrect": false },
+        { "text": "Oceano Antártico", "isCorrect": false }
+      ]
+    },
+     {
+      "question": "Quem foi o primeiro presidente dos Estados Unidos?",
+      "answers": [
+        { "text": "George Washington", "isCorrect": true },
+        { "text": "Franklin D. Roosevelt", "isCorrect": false },
+        { "text": "John Kennedy", "isCorrect": false },
+        { "text": "Jimmy Carter", "isCorrect": false },
+        { "text": "Ronald Reagan", "isCorrect": false }
+      ]
+    },
+     {
+      "question": "Qual é a fórmula química da água?",
+      "answers": [
+        { "text": "H2O", "isCorrect": true },
+        { "text": "CO3", "isCorrect": false },
+        { "text": "N2", "isCorrect": false },
+        { "text": "GR", "isCorrect": false },
+        { "text": "H2H", "isCorrect": false }
+      ]
+    },
+      {
+      "question": "Em que ano ocorreu a Revolução Francesa?",
+      "answers": [
+        { "text": "1789", "isCorrect": true },
+        { "text": "1800", "isCorrect": false },
+        { "text": "1785", "isCorrect": false },
+        { "text": "1750", "isCorrect": false },
+        { "text": "1810 ", "isCorrect": false }
+      ]
+    },
+     {
+      "question": "Qual é o planeta mais próximo do Sol?",
+      "answers": [
+        { "text": "Mércurio", "isCorrect": true },
+        { "text": "Plutão", "isCorrect": false },
+        { "text": "Marte", "isCorrect": false },
+        { "text": "Jupter", "isCorrect": false },
+        { "text": "Saturno", "isCorrect": false }
+      ]
+    },
+     {
+      "question": "Qual é o menor país do mundo em termos de área?",
+      "answers": [
+        { "text": "Vaticano", "isCorrect": true },
+        { "text": "Grêcia", "isCorrect": false },
+        { "text": "Italia", "isCorrect": false },
+        { "text": "Escócia", "isCorrect": false },
+        { "text": "Guatemala", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é o maior continente em termos de área?",
+      "answers": [
+        { "text": "Ásia", "isCorrect": true },
+        { "text": "Oceania", "isCorrect": false },
+        { "text": "América do Sul", "isCorrect": false },
+        { "text": "Europa", "isCorrect": false },
+        { "text": "América do Norte", "isCorrect": false }
+      ]
+    },
+      {
+      "question": "Qual é o maior continente em termos de área?",
+      "answers": [
+        { "text": "Ásia", "isCorrect": true },
+        { "text": "Oceania", "isCorrect": false },
+        { "text": "América do Sul", "isCorrect": false },
+        { "text": "Europa", "isCorrect": false },
+        { "text": "América do Norte", "isCorrect": false }
+      ]
+    },
+      {
+      "question": "*Qual é o símbolo químico do ouro?",
+      "answers": [
+        { "text": "Au", "isCorrect": true },
+        { "text": "H2", "isCorrect": false },
+        { "text": "C3", "isCorrect": false },
+        { "text": "Ef", "isCorrect": false },
+        { "text": "O2", "isCorrect": false }
+      ]
+    },
+      {
+      "question": "*Quem pintou ''A Última Ceia''?",
+      "answers": [
+        { "text": "Leonardo da Vinci", "isCorrect": true },
+        { "text": "Donatello", "isCorrect": false },
+        { "text": "Sandro Botticelli", "isCorrect": false },
+        { "text": "Caravaggio", "isCorrect": false },
+        { "text": "Michelangelo", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é o maior deserto do mundo?",
+      "answers": [
+        { "text": "Deserto da Antártica", "isCorrect": true },
+        { "text": "Deserto do Saara", "isCorrect": false },
+        { "text": "Deserto de Gobi", "isCorrect": false },
+        { "text": "Deserto do Kalahari", "isCorrect": false },
+        { "text": "Deserto do Ártico", "isCorrect": false }
+      ]
+    },
+     {
+      "question": "Quem foi o primeiro homem a pisar na Lua?",
+      "answers": [
+        { "text": "Neil Armstrong", "isCorrect": true },
+        { "text": "Buzz Aldrin", "isCorrect": false },
+        { "text": "Harrison Schmitt", "isCorrect": false },
+        { "text": "David Scott", "isCorrect": false },
+        { "text": "Thomas Stafford", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é a capital do Brasil?",
+      "answers": [
+        { "text": "Brasilia", "isCorrect": true },
+        { "text": "Rio de Janeiro", "isCorrect": false },
+        { "text": "Goiânia", "isCorrect": false },
+        { "text": "Belém", "isCorrect": false },
+        { "text": "São Paulo", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é a capital do Brasil?",
+      "answers": [
+        { "text": "Brasilia", "isCorrect": true },
+        { "text": "Rio de Janeiro", "isCorrect": false },
+        { "text": "Goiânia", "isCorrect": false },
+        { "text": "Belém", "isCorrect": false },
+        { "text": "São Paulo", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é o livro mais vendido de todos os tempos?",
+      "answers": [
+        { "text": "Biblia", "isCorrect": true },
+        { "text": "O Homem Mais Rico da Babilônia", "isCorrect": false },
+        { "text": "É Assim Que Começa", "isCorrect": false },
+        { "text": "A Biblioteca da Meia-Noite", "isCorrect": false },
+        { "text": "É Assim Que Acaba", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é a língua oficial do Brasil?",
+      "answers": [
+        { "text": "Português", "isCorrect": true },
+        { "text": "Espanhol", "isCorrect": false },
+        { "text": "Inglês", "isCorrect": false },
+        { "text": "Francês", "isCorrect": false },
+        { "text": "Italiano", "isCorrect": false }
+      ]
+    },
+     {
+      "question": "Qual é o rio mais longo do mundo?",
+      "answers": [
+        { "text": "Rio Nilo", "isCorrect": true },
+        { "text": "Rio Amazonas", "isCorrect": false },
+        { "text": "Rio Mississippi", "isCorrect": false },
+        { "text": "Rio da Prata", "isCorrect": false },
+        { "text": "Rio Ienissei", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Quem descobriu a penicilina?",
+      "answers": [
+        { "text": "Alexander Fleming", "isCorrect": true },
+        { "text": "Niels Bohr", "isCorrect": false },
+        { "text": "Rosalind Franklin", "isCorrect": false },
+        { "text": "Marie Curie", "isCorrect": false },
+        { "text": "Antoine Lavoisier", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é a montanha mais alta do mundo?",
+      "answers": [
+        { "text": "Everest", "isCorrect": true },
+        { "text": "Aconcágua", "isCorrect": false },
+        { "text": "Kilimanjaro", "isCorrect": false },
+        { "text": "Elbrus", "isCorrect": false },
+        { "text": "Vinson", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é o maior animal terrestre?",
+      "answers": [
+        { "text": "Elefante Africano", "isCorrect": true },
+        { "text": "Rinoceronte de Madagascar", "isCorrect": false },
+        { "text": "Hipópotamo Africano", "isCorrect": false },
+        { "text": "Girafa Africana", "isCorrect": false },
+        { "text": "Urso Canadense", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Quem é o autor de 'Harry Potter'?",
+      "answers": [
+        { "text": "J.K. Rowling", "isCorrect": true },
+        { "text": "James Salter", "isCorrect": false },
+        { "text": "Richard Sennett", "isCorrect": false },
+        { "text": "Junot Díaz", "isCorrect": false },
+        { "text": "Michel Houellebecq", "isCorrect": false }
+      ]
+    },
+      {
+      "question": "Qual é a capital do Japão?",
+      "answers": [
+        { "text": "Tóquio", "isCorrect": true },
+        { "text": "Hiroshima", "isCorrect": false },
+        { "text": "Seul", "isCorrect": false },
+        { "text": "Amsterdã", "isCorrect": false },
+        { "text": "Sidney", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é o elemento químico com símbolo Fe?",
+      "answers": [
+        { "text": "Ferro", "isCorrect": true },
+        { "text": "Ouro", "isCorrect": false },
+        { "text": "Carbono", "isCorrect": false },
+        { "text": "Nitratro", "isCorrect": false },
+        { "text": "Níquel", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é a principal religião da Índia?",
+      "answers": [
+        { "text": "Hinduísmo", "isCorrect": true },
+        { "text": "Catolicismo", "isCorrect": false },
+        { "text": "Budismo", "isCorrect": false },
+        { "text": "Judaismo", "isCorrect": false },
+        { "text": "Ateismo", "isCorrect": false }
+      ]
+    },
+     {
+      "question": "Quem pintou 'O Nascimento de Vênus'?",
+      "answers": [
+        { "text": "Sandro Botticelli", "isCorrect": true },
+        { "text": "Leonardo da Vinci ", "isCorrect": false },
+        { "text": "Michelangelo ", "isCorrect": false },
+        { "text": "Rafael", "isCorrect": false },
+        { "text": "Ticiano", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é o país mais populoso do mundo?",
+      "answers": [
+        { "text": "China", "isCorrect": true },
+        { "text": "Índia", "isCorrect": false },
+        { "text": "Brasil", "isCorrect": false },
+        { "text": "Rússia", "isCorrect": false },
+        { "text": "África do Sul", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é a velocidade da luz no vácuo?",
+      "answers": [
+        { "text": "Aprox. 299.792.458 Ms", "isCorrect": true },
+        { "text": "Aprox. 299.802.458 Ms", "isCorrect": false },
+        { "text": "Aprox. 299.492.458 Ms", "isCorrect": false },
+        { "text": "Aprox. 299.002.458 Ms", "isCorrect": false },
+        { "text": "Aprox. 299.792.992 Ms", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é o maior mamífero marinho?",
+      "answers": [
+        { "text": "Baleia Azul", "isCorrect": true },
+        { "text": "Baleia Jubarte", "isCorrect": false },
+        { "text": "Orca", "isCorrect": false },
+        { "text": "Baleia Cinza", "isCorrect": false },
+        { "text": "Orca Sueca", "isCorrect": false }
+      ]
+    },
+     {
+      "question": "Qual é o símbolo químico do oxigênio?",
+      "answers": [
+        { "text": "O", "isCorrect": true },
+        { "text": "Ho", "isCorrect": false },
+        { "text": "UO", "isCorrect": false },
+        { "text": "O2", "isCorrect": false },
+        { "text": "Ho2", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Qual é a capital da Austrália?",
+      "answers": [
+        { "text": "Canberra", "isCorrect": true },
+        { "text": "Sidney", "isCorrect": false },
+        { "text": "Camboja", "isCorrect": false },
+        { "text": "Budapeste", "isCorrect": false },
+        { "text": "Pretória", "isCorrect": false }
+      ]
+    }
+  ]
+  
